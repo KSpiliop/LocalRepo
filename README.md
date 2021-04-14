@@ -1,3 +1,2 @@
 # LocalRepo
- Local repo
-[![Binder](https://mybinder.org/v2/gh/KSpiliop/LocalRepo/9d8978f89880f06c35106f4d5dfc739558420fe2)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KSpiliop/LocalRepo/main?filepath=Topic_modeling_notebook_v1.ipynb)
